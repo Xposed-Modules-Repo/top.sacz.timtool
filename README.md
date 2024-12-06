@@ -1,9 +1,9 @@
 <div align="center">
 <h1>Tim小助手</h1>
  
-<a href="https://github.com/suzhelan/top.sacz.timtool/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/suzhelan/TimTool/total?label=Downloads"></a>
-<a href="https://github.com/suzhelan/top.sacz.timtool/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/suzhelan/TimTool"></a>
-<a href="https://github.com/suzhelan/top.sacz.timtool/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/suzhelan/TimTool"></a>
+<a href="https://github.com/suzhelan/TimTool/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/suzhelan/TimTool/total?label=Downloads"></a>
+<a href="https://github.com/suzhelan/TimTool/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/suzhelan/TimTool"></a>
+<a href="https://github.com/suzhelan/TimTool/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/suzhelan/TimTool"></a>
 <a href="https://t.me/timtool"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>   
 <p>对Tim,QQ进行的扩展优化的Xposed模块</p>
 <p>永久免费模块，请勿上当受骗</p>
@@ -11,7 +11,7 @@
 
 ---
 
-## 适配的版本范围 TimNT 4.x.x(目前维护到4.0.96 内测最新版)
+## 适配的版本范围 TimNT 4.x.x(目前维护到4.0.97 最新版)
 ### 该插件仅供学习与练习  
 请勿使用此插件用于违法 商业行为  
 插件只是提高日常方便性的工具 请勿过度依赖该插件  
