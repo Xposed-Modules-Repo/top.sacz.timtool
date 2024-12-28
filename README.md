@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Tim小助手</h1>
  
-<a href="https://github.com/suzhelan/TimTool/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/suzhelan/TimTool/total?label=Downloads"></a>
+<a href="https://github.com/suzhelan/TimTool/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/top.sacz.timtool/total?label=Downloads"></a>
 <a href="https://github.com/suzhelan/TimTool/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/suzhelan/TimTool"></a>
 <a href="https://github.com/suzhelan/TimTool/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/suzhelan/TimTool"></a>
 <a href="https://t.me/timtool"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a> 
