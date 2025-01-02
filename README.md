@@ -14,14 +14,27 @@
 
 ## [连接到主仓库](https://github.com/suzhelan/TimTool)
 
----
+---  
+### 各渠道更新频率  
+* **更新频率**
+    - 随缘更新
+    - [Telegram](https://t.me/timtool) 在构建测试结束后会更新
+    - [Releases](https://github.com/suzhelan/TimTool/releases) 每5个版本更新一次
+    - [LSPosedRepo](https://github.com/Xposed-Modules-Repo/top.sacz.timtool) 每10个版本更新一次
+    - [更新API](https://github.com/suzhelan/TimTool/blob/master/.github/devhelp/update-api.md)
 
 ## 适配的版本范围 TimNT 4.x.x(目前维护到4.0.97 最新版)
-### 该插件仅供学习与练习  
+
+![Module-Img](https://github.com/suzhelan/TimTool/blob/master/.github/img/v2.0.jpg)
+
+### 该插件仅供学习与练习
+
 请勿使用此插件用于违法 商业行为  
 插件只是提高日常方便性的工具 请勿过度依赖该插件  
 此项目会因为各种可抗不可抗因素随时停止维护  
 如果发生了更糟糕的情况我们会及时 **删除代码库** 以及 **发行渠道的所有版本**  
 在此之前你或许可以及时保存我们的工作成品
+---
 
 [LSPosed-Repo-Github](https://github.com/Xposed-Modules-Repo/top.sacz.timtool)
+
